@@ -1,0 +1,72 @@
+@import './../styles/variables.scss';
+@import './../styles/index.scss';
+@import './../styles/mixins.scss';
+
+.footer {
+  background-color: $primary;
+  display: flex;
+  padding: 30px 0;
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    @include respond(desktop) {
+      flex-direction: row;
+    }
+  }
+
+  &__data {
+    text-align: center;
+    margin-bottom: 20px;
+
+    @include respond(desktop) {
+      width: 25%;
+    }
+  }
+
+  &__data__title {
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: $bold;
+  }
+
+  &__contact__subtitle {
+    font-weight: $semi-bold;
+  }
+
+  &__data__link {
+    cursor: pointer;
+    transition: 0.5s ease color;
+    &:hover {
+      color: $red;
+    }
+  }
+  &__icon {
+    width: 20px;
+    height: 20px;
+    fill: $text-color;
+    margin: 0 20px;
+    cursor: pointer;
+    transition: 0.3s ease fill;
+
+    &:hover {
+      fill: $red;
+    }
+  }
+
+  .cv__download {
+    font-size: 10px;
+    position: relative;
+
+    span {
+      color: $primary;
+      font-weight: $bold;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -70%);
+    }
+  }
+}

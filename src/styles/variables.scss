@@ -1,0 +1,24 @@
+/*====Google Fonts===*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap');
+
+/*====Font===*/
+$font-family: 'Montserrat', sans-serif;
+$normal: 400;
+$medium: 500;
+$semi-bold: 600;
+$bold: 700;
+
+/*====Color===*/
+$primary: #326789;
+$secundary: #78a6c8;
+$grey: #e9eef4;
+$red: #af5554;
+$text-color: #f0f4f8;
+$black: #000;
+$white: #fff;
+
+/*====Media queries===*/
+$mobile: 376px;
+$tablet: 768px;
+$tablet-max: 769px;
+$desktop: 1024px;
