@@ -87,7 +87,7 @@ const Footer = () => {
               <Linkedin className={classes.footer__icon} />
             </a>
             <a
-              href="https://drive.google.com/file/d/1NCWg9H90YLTIPTF7v8qcA1wH_Std0DjL/view?usp=sharing"
+              href="https://drive.google.com/file/d/1EdHqkcqLmuSM4fD8oDInVwIilZSwWLGC/view?usp=sharing"
               className={classes.cv__download}
               target="_blank"
               rel="noreferrer"
