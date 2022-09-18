@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.0abf7c85.css",
+    "main.js": "/react-portfolio/static/js/main.a373aa01.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/coffee.png": "/react-portfolio/static/media/coffee.007c102ae16becc5778e.png",
+    "static/media/healty_food.png": "/react-portfolio/static/media/healty_food.497ba1654826958ed267.png",
+    "static/media/Sloba_MIric.png": "/react-portfolio/static/media/Sloba_MIric.f12362f51c6255a87040.png",
+    "static/media/Cat_app.png": "/react-portfolio/static/media/Cat_app.3a1c1a32d24127043e83.png",
+    "static/media/picture.png": "/react-portfolio/static/media/picture.316b50823eeef7a7d589.png",
+    "static/media/Designer2.png": "/react-portfolio/static/media/Designer2.075144b304d2c9ac6f15.png",
+    "static/media/Homemade.png": "/react-portfolio/static/media/Homemade.683352ef7cf97e69f92b.png",
+    "static/media/logo.png": "/react-portfolio/static/media/logo.c0269525827790deb696.png",
+    "static/media/sass.svg": "/react-portfolio/static/media/sass.96d2e4d8166c3fb73f7cfeb2b963b6d3.svg",
+    "static/media/react.svg": "/react-portfolio/static/media/react.43bbe5414340c6c1c4f449a40ceab6e3.svg",
+    "static/media/figma.svg": "/react-portfolio/static/media/figma.bca51d22f45c0379be885d4a025a7f02.svg",
+    "static/media/photoshop.svg": "/react-portfolio/static/media/photoshop.f5fdbd1a7435c1b010a7f54d6c54a116.svg",
+    "static/media/github.svg": "/react-portfolio/static/media/github.c036239022f277fd9b379dfc0e63619f.svg",
+    "static/media/js.svg": "/react-portfolio/static/media/js.9c38118c54e2475f0ec81eebb77669ff.svg",
+    "index.html": "/react-portfolio/index.html",
+    "static/media/git-alt.svg": "/react-portfolio/static/media/git-alt.ebe079ac57a237d0158223f535af9cc2.svg",
+    "static/media/linkedin.svg": "/react-portfolio/static/media/linkedin.ea62c772a1a7d6f64daa740bae8f438b.svg",
+    "static/media/css3-alt.svg": "/react-portfolio/static/media/css3-alt.8d2037a4115ce1e9a8d8d36a6ead71ec.svg",
+    "static/media/html5.svg": "/react-portfolio/static/media/html5.c1e5a74f422a1c4ed5c3d11d62357001.svg",
+    "static/media/file.svg": "/react-portfolio/static/media/file.c017ec14c8a68389f69413fc452b23aa.svg",
+    "main.0abf7c85.css.map": "/react-portfolio/static/css/main.0abf7c85.css.map",
+    "main.a373aa01.js.map": "/react-portfolio/static/js/main.a373aa01.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0abf7c85.css",
+    "static/js/main.a373aa01.js"
+  ]
+}
